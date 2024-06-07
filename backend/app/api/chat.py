@@ -1,0 +1,1 @@
+# Endpoints related to chat functionality
